@@ -5,6 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".TravellersSelect">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the number of travellers"/>
 
     <Spinner
         android:layout_width="150dp"
@@ -12,7 +16,18 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
-        android:background="@drawable/box"></Spinner>
+        android:background="@drawable/box"
+        android:id="@+id/Spinner">
+    </Spinner>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="142dp"
+        android:text="LOOK AT SOME FELLOW TRAVELLERS"
+        android:textSize="20dp"
+        android:background="#ff9900"/>
 
 
 </RelativeLayout>

@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">branches</string>
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Maharashtra</item>
+        <item>Punjab</item>
+    </string-array>
+    <string-array name="number_traveller">
+        <item>5</item>
+        <item>7</item>
+        <item>15</item>
+        <item>24</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>48</item>
+    </string-array>
+
 
 </resources>
