@@ -18,6 +18,7 @@
         </activity>
         <activity android:name=".PlacesSelect" />
         <activity android:name=".TravellersSelect" />
+        <activity android:name=".Travel_forward"></activity>
     </application>
 
 </manifest>
