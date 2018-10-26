@@ -24,7 +24,7 @@
         android:layout_height="50dp"
         android:layout_centerInParent="true"
         android:background="@drawable/box"
-        android:id="@+id/Spinner">
+        android:id="@+id/Spinner">`
     </Spinner>
 
     <Button
