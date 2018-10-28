@@ -9,7 +9,7 @@ class Travel_forward : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_travel_forward)
          btnTrav.setOnClickListener() {
-            val actIntent = Intent(this, TravellersSelect::class.java)
+            val actIntent = Intent(this, PlacesSelect::class.java)
             startActivity(actIntent)
         }
     }
